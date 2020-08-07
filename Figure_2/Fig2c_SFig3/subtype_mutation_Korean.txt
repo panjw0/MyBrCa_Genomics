@@ -1,0 +1,12 @@
+	all_subtypes	LumA	LumB	Her2	Basal	Normal	NA	
+all_samples	187	47	65	18	36	2	19
+TP53	89	6	30	15	29	1	8
+PIK3CA	58	22	23	7	1	0	5
+GATA3	24	4	17	0	0	0	3
+MAP3K1	10	4	6	0	0	0	0
+KMT2C	7	4	1	1	1	0	0
+PTEN	6	4	1	0	0	0	1
+CBFB	5	3	1	1	0	0	0
+CDH1	4	3	1	0	0	0	0
+AKT1	5	3	1	0	0	0	1
+NF1	7	0	6	0	1	0	0

@@ -1,0 +1,12 @@
+	all_subtypes
+all_samples	83
+TP53	38
+PIK3CA	28
+GATA3	4
+MAP3K1	2
+KMT2C	8
+PTEN	7
+CBFB	0
+CDH1	0
+AKT1	2
+NF1	3

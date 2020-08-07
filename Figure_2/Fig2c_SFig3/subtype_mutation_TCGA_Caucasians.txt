@@ -1,0 +1,12 @@
+	all_subtypes	Luminal_A	Luminal_B	HER2-enriched	Basal-like	Normal-like	NA	
+all_samples	604	175	68	27	72	7	255
+TP53	205	22	21	18	60	3	70
+PIK3CA	278	101	20	7	7	1	102
+GATA3	74	27	12	1	2	0	26
+MAP3K1	71	34	4	3	1	1	25
+KMT2C	50	17	4	1	4	0	21
+PTEN	30	6	2	1	1	0	12
+CBFB	18	7	0	0	1	0	9
+CDH1	89	16	4	2	1	1	19
+AKT1	2	0	1	0	0	0	0
+NF1	23	4	3	1	4	1	7
